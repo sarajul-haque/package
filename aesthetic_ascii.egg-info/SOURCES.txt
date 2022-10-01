@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+aesthetic_ascii/11103184923_a70581ff21.jpg
+aesthetic_ascii/214613-4k-hd-wallpapers-1920x1080-picture.jpg
+aesthetic_ascii/2669699.jpg
+aesthetic_ascii/RobotoMono-VariableFont_wght.ttf
+aesthetic_ascii/UvanRs.jpg
+aesthetic_ascii/__init__.py
+aesthetic_ascii/a2d6f02661393a97ef0b1165a09bf691.jpg
+aesthetic_ascii/synthesize.py
+aesthetic_ascii.egg-info/PKG-INFO
+aesthetic_ascii.egg-info/SOURCES.txt
+aesthetic_ascii.egg-info/dependency_links.txt
+aesthetic_ascii.egg-info/top_level.txt
